@@ -1,0 +1,13 @@
+.card {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.out-card {
+    margin: 25px;
+}
+
+.body {
+    font-family: 'Courier New', Courier, monospace;
+}

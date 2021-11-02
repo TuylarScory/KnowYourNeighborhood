@@ -1,0 +1,74 @@
+.ltext {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.ldiv, .ldiv-btn{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lcontrol {
+    width: 80%;
+    padding: 15px;
+    margin: 15px 0 13px 0;
+    background-color: none;
+    border: 1px solid #555;
+}
+input[type=password], input[type=email] {
+    padding-left: 35px;
+}
+.lbtnn {
+    width: 80%;
+    background-color: #d49a87;
+    padding: 15px;
+    margin: 15px 0 13px 0;
+    color: white;
+    border: 1px solid #d49a87;
+    border-radius: 5px;
+    
+}
+.lsocial-btn {
+    width: 80%;
+    background-color: #a8badb;
+    padding: 15px 170px 15px 170px;
+    outline: none;
+    border: 1px solid #a8badb;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+}
+.lsocial-btn:hover {
+    color: black;
+    
+}
+.ldiv-text {
+    margin: 20px 0 0 65px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.la {
+    color: gray;
+    text-decoration: none;
+}
+.la:hover {
+    color: gray;
+}
+.laa {
+    text-decoration: none;
+    color: black;
+}
+.laa:hover {
+   color: black;
+}
+h5{
+    margin: 10px 0 0 0 ;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    margin: 20px 15px;
+    
+}
+.img {
+    width: 100%;
+    height: 100%;
+}

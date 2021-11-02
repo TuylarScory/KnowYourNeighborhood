@@ -1,0 +1,15 @@
+.App {
+    font-family: 'Courier New', Courier, monospace;
+}
+.container1 {
+    border: 1px solid #845460;
+    
+    margin-top: 50px;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.text {
+    padding: 30px 150px;
+    line-height: 25px;
+}

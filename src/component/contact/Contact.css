@@ -1,0 +1,15 @@
+.App {
+    font-family: 'Courier New', Courier, monospace;
+}
+.text-c1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.text-box {
+    padding: 20px;
+}
+.text-c {
+    color: #ce7d5d;
+    text-align: center;
+}
