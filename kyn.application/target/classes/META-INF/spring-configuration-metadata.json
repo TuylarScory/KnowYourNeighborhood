@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.yyms.api.kyn.application.configuration.AppProperties",
+      "sourceType": "com.yyms.api.kyn.application.configuration.AppProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
