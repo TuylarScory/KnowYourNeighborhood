@@ -7,3 +7,5 @@ This is the project to know the neighborhood
 
 #### Desktop preview:
 ![WW](https://user-images.githubusercontent.com/59063950/90841957-1181b200-e32c-11ea-8829-77f1760d9125.png)
+
+![Cuba1](../dorothea-oldani-_Jkoj5toA7M-unsplash.jpg)
